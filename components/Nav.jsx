@@ -88,6 +88,8 @@ const Nav = () => {
                 >
                   My Profile
                 </Link>
+                <Link>
+                </Link>
               </div>
             )}
           </div>
